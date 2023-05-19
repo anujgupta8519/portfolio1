@@ -14,15 +14,17 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-            I Started coding in 2020 with Java and after that i start practicing with coding Ninjas and there i got Level in coding
-            and Now i am working with React and Node, and building some Personal Project.
+        In 2020, I began my coding journey with Java. I honed my skills by practicing on platforms like Coding Ninjas,
+         eventually reaching the 7th level in coding. Currently, I am working with React and Node, building personal projects 
+         to further enhance my abilities.
         </p>
 
         <br />
 
         <p className="text-xl">
-            Currently, I am working with Infosys Ltd. and in Infosys i have 13 Months of working Exprience on Java , Node and React etc...
-
+        At present, I am employed at Infosys Ltd., where I have accumulated 13 months of professional experience. 
+        During my tenure, I have focused on utilizing my skills in Java, Node.js, React,
+         and other relevant technologies.
         </p>
       </div>
     </div>
