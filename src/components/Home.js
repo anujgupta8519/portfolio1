@@ -15,9 +15,10 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React,Node Js, java , spring , MongoDb, Mern , Java-React etc..
+            With one year of experience in software development and design, my primary focus 
+          and passion revolve around web applications. I find great enjoyment in working with a diverse
+           range of technologies such as React, Node.js, Java, Spring, MongoDB, MERN stack, Java-React, and other
+            tools that contribute to the development process.
           </p>
 
           <div>
@@ -42,7 +43,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            style={{width:"500px", height:"400px"}}
+            style={{width:"500px", height:"300px"}}
             className="rounded-2xl mx-auto w-2/3 md:w-full cursor-pointer hover:scale-110 duration-700 "
           />
           </a>
