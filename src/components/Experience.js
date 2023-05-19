@@ -39,7 +39,7 @@ const Experience = () => {
     {
       id: 5,
       src: bootstrap,
-      title: "Tailwind",
+      title: "BootStrap",
       style: "shadow-purple-400",
     },
     {
