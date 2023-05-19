@@ -14,17 +14,21 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        In 2020, I began my coding journey with Java. I honed my skills by practicing on platforms like Coding Ninjas,
-         eventually reaching the 7th level in coding. Currently, I am working with React and Node, building personal projects 
-         to further enhance my abilities.
+
+        In 2020, I embarked on my coding journey with Java, diligently practicing and refining my skills
+         on platforms like Coding Ninjas. Through perseverance and dedication, I attained the impressive achievement
+          of reaching the 7th coding level. Currently, I am fully immersed in working with React and Node, focusing on 
+          building personal projects that serve as both a learning experience and an opportunity to enhance my abilities. 
+          With each project, I strive to further expand my knowledge and expertise in web development, leveraging the power of 
+          React and Node to create innovative and impactful applications.
         </p>
 
         <br />
 
         <p className="text-xl">
-        At present, I am employed at Infosys Ltd., where I have accumulated 13 months of professional experience. 
-        During my tenure, I have focused on utilizing my skills in Java, Node.js, React,
-         and other relevant technologies.
+        I am currently employed at Infosys Ltd., where I have gathered 13 months of professional experience. 
+        During my tenure, my focus has been on utilizing my skills in Java, Node.js, React, and other relevant technologies. 
+        I have been actively involved in projects that have allowed me to apply and further develop my expertise in these areas.
         </p>
       </div>
     </div>
