@@ -39,6 +39,7 @@ export default function App() {
     <Nav/>
     <Home/>
     <About/>
+    
     {/* <Portfolio/> */}
     <Experience/>
     <Contact/>

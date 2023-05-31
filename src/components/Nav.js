@@ -30,7 +30,7 @@ const Nav = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 bg-black tcolor fixed" style={{zIndex:"1"}}>
+    <div className="flex justify-between items-center w-full h-20 px-4 bg-black tcolor fixed px-10" style={{zIndex:"1"}}>
       <div>
         <a href="https://www.codingninjas.com/codestudio/profile/anujgupta" target="_blank"  rel="noreferrer"><h1 className="text-2xl hover:scale-105  duration-200 ml-2">Anuj Gupta</h1></a>
       </div>
